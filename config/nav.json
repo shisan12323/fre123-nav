@@ -1,18 +1,18 @@
 [
 	{
-		"group_name": "新闻资讯",
+		"group_name": "11新闻资讯",
 		"style": 1,
-		"style_des": "标准风格",
+		"style_des": "11标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻热点",
+				"tab_name": "11新闻热点",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
 					"url": "https://www.fre123.com/news"
 				},
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
+						"title": "11FRE123 新闻热榜",
 						"ori_url": "https://www.fre123.com/news",
 						"url": "https://www.fre123.com/news",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
@@ -21,7 +21,7 @@
 						"is_show": true
 					},
 					{
-						"title": "FRE123 技术热榜",
+						"title": "11FRE123 技术热榜",
 						"ori_url": "https://www.fre123.com/tech",
 						"url": "https://www.fre123.com/tech",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
